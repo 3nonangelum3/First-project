@@ -14,3 +14,4 @@ const c = prompt("What film?","");
 const d = +prompt("What rate?", "");
 personalMovieDB.movies[a] = b;
 personalMovieDB.movies[c] = d;
+console.log(personalMovieDB);
